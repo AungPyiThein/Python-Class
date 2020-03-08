@@ -24,8 +24,8 @@ print(fruits[2:5])
 
 #change Tuples Value
 
-x = ("apple", "banana", "cheery", "organe")
-y = lsit(x)
+x = ("apple", "banana", "cheery", "orange")
+y = list(x)
 y[1] = "mango"
 x = tuple(y)
 x
